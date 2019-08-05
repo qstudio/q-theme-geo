@@ -1,0 +1,449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Q Control\n"
+"POT-Creation-Date: 2014-11-19 21:48+0100\n"
+"PO-Revision-Date: 2014-11-19 21:48+0100\n"
+"Last-Translator: Ray <ray@qstudio.us>\n"
+"Language-Team: Q Studio <team@qstudio.us>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../q-config.php:23
+msgid "Feature"
+msgstr ""
+
+#: ../q-config.php:139
+msgid "Search Groups"
+msgstr ""
+
+#: ../q-config.php:140
+msgid "Popular Groups"
+msgstr ""
+
+#: ../q-config.php:141
+msgid "All Groups"
+msgstr ""
+
+#: ../q-config.php:144
+msgid "Edit Group"
+msgstr ""
+
+#: ../q-config.php:145
+msgid "Update Group"
+msgstr ""
+
+#: ../q-config.php:146
+msgid "Add New Group"
+msgstr ""
+
+#: ../q-config.php:147
+msgid "New Group Name"
+msgstr ""
+
+#: ../q-config.php:148
+msgid "Separate Groups with commas"
+msgstr ""
+
+#: ../q-config.php:149
+msgid "Add or remove Groups"
+msgstr ""
+
+#: ../q-config.php:150
+msgid "Choose from the most used Groups"
+msgstr ""
+
+#: ../q-config.php:151
+msgid "No Group found."
+msgstr ""
+
+#: ../q-config.php:152
+msgid "Groups"
+msgstr ""
+
+#: ../q-config.php:174
+msgid "Search Sets"
+msgstr ""
+
+#: ../q-config.php:175
+msgid "Popular Sets"
+msgstr ""
+
+#: ../q-config.php:176
+msgid "All Sets"
+msgstr ""
+
+#: ../q-config.php:179
+msgid "Edit Set"
+msgstr ""
+
+#: ../q-config.php:180
+msgid "Update Set"
+msgstr ""
+
+#: ../q-config.php:181
+msgid "Add New Set"
+msgstr ""
+
+#: ../q-config.php:182
+msgid "New Set Name"
+msgstr ""
+
+#: ../q-config.php:183
+msgid "Separate Sets with commas"
+msgstr ""
+
+#: ../q-config.php:184
+msgid "Add or remove Sets"
+msgstr ""
+
+#: ../q-config.php:185
+msgid "Choose from the most used Sets"
+msgstr ""
+
+#: ../q-config.php:186
+msgid "No Sets found."
+msgstr ""
+
+#: ../q-config.php:187
+msgid "Sets"
+msgstr ""
+
+#: ../q-config.php:214 ../q-config.php:215 ../q-config.php:231
+#: ../q-functions.php:218 ../q-functions.php:305
+msgid "Guide"
+msgstr ""
+
+#: ../q-config.php:216 ../q-config.php:217 ../q-config.php:219
+#: ../q-config.php:227
+msgid "Add Guide"
+msgstr ""
+
+#: ../q-config.php:218
+msgid "Edit Guide"
+msgstr ""
+
+#: ../q-config.php:220
+msgid "All Guides"
+msgstr ""
+
+#: ../q-config.php:221
+msgid "View Guide"
+msgstr ""
+
+#: ../q-config.php:222
+msgid "Search Guides"
+msgstr ""
+
+#: ../q-config.php:225
+msgid "No Guides found"
+msgstr ""
+
+#: ../q-config.php:229
+msgid "No Guides found in Trash"
+msgstr ""
+
+#: ../q-config.php:254 ../q-config.php:255
+msgid "Resource"
+msgstr ""
+
+#: ../q-config.php:256 ../q-config.php:257 ../q-config.php:259
+#: ../q-config.php:267
+msgid "Add Resource"
+msgstr ""
+
+#: ../q-config.php:258
+msgid "Edit Resource"
+msgstr ""
+
+#: ../q-config.php:260
+msgid "All Resources"
+msgstr ""
+
+#: ../q-config.php:261
+msgid "View Resource"
+msgstr ""
+
+#: ../q-config.php:262
+msgid "Search Resources"
+msgstr ""
+
+#: ../q-config.php:265
+msgid "No Resources found"
+msgstr ""
+
+#: ../q-config.php:269
+msgid "No Resources found in Trash"
+msgstr ""
+
+#: ../q-config.php:271 ../q-functions.php:222 ../q-functions.php:309
+msgid "Resources"
+msgstr ""
+
+#: ../q-config.php:442
+msgid "Sidebar"
+msgstr ""
+
+#: ../q-config.php:444
+msgid "Widgets shown in the sidebar area."
+msgstr ""
+
+#: ../q-config.php:449
+msgid "Footer Newsletter Widget"
+msgstr ""
+
+#: ../q-config.php:451
+msgid "Q Control: Footer Newsletter Widget."
+msgstr ""
+
+#: ../q-config.php:456
+msgid "Footer Share Widget"
+msgstr ""
+
+#: ../q-config.php:458
+msgid "Q Control: Footer Share Widget."
+msgstr ""
+
+#: ../q-config.php:463
+msgid "Header Language Widget"
+msgstr ""
+
+#: ../q-config.php:465
+msgid "Q Control: Header Language Widget."
+msgstr ""
+
+#: ../q-config.php:470
+msgid "Guide Widget"
+msgstr ""
+
+#: ../q-config.php:472
+msgid "Q Control: Guide Widget."
+msgstr ""
+
+#: ../q-config.php:477
+msgid "Resource Widget"
+msgstr ""
+
+#: ../q-config.php:479
+msgid "Q Control: Resource Widget."
+msgstr ""
+
+#: ../q-config.php:483
+msgid "Facebook Share"
+msgstr ""
+
+#: ../q-config.php:485
+msgid "Facebook share widget."
+msgstr ""
+
+#: ../q-config.php:518 ../q-config.php:540
+msgid "All"
+msgstr ""
+
+#: ../q-config.php:698
+msgid "Address"
+msgstr ""
+
+#: ../q-config.php:699
+msgid "Telephone"
+msgstr ""
+
+#: ../q-config.php:700
+msgid "Mobile"
+msgstr ""
+
+#: ../q-config.php:701
+msgid "URL"
+msgstr ""
+
+#: ../q-config.php:702
+msgid "Email"
+msgstr ""
+
+#: ../q-config.php:703
+msgid "Opening Times"
+msgstr ""
+
+#: ../q-config.php:704
+msgid "Accessible"
+msgstr ""
+
+#: ../q-config.php:705
+msgid "Languages"
+msgstr ""
+
+#: ../q-control.php:254
+msgid "Theme"
+msgstr ""
+
+#: ../q-control.php:263
+msgid "Handheld"
+msgstr ""
+
+#: ../q-control.php:265
+msgid "Desktop"
+msgstr ""
+
+#: ../q-control.php:372
+msgid "in"
+msgstr ""
+
+#: ../q-functions.php:155
+msgid "404 ~ Page Not Found"
+msgstr ""
+
+#: ../q-functions.php:161
+msgid "We can't find what you're looking for, perhaps searching will help."
+msgstr ""
+
+#: ../q-functions.php:167
+msgid "Search Results"
+msgstr ""
+
+#: ../q-functions.php:173
+msgid ""
+"Below are the results of your search for ########, please select one to "
+"continue."
+msgstr ""
+
+#: ../q-functions.php:181 ../q-functions.php:231 ../q-functions.php:279
+#: ../q-functions.php:317
+msgid "Blog"
+msgstr ""
+
+#: ../q-functions.php:205
+msgid "Read all the posts by this author."
+msgstr ""
+
+#: ../q-functions.php:226 ../q-functions.php:244 ../q-functions.php:258
+#: ../q-functions.php:313
+msgid "Events"
+msgstr ""
+
+#: ../q-functions.php:238
+msgid "Backup Taxonomy Excerpt."
+msgstr ""
+
+#: ../q-functions.php:247 ../q-template.php:181
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../q-functions.php:250 ../q-functions.php:267 ../q-functions.php:288
+msgid "Something generic about events"
+msgstr ""
+
+#: ../q-functions.php:282
+msgid "News and Updates"
+msgstr ""
+
+#: ../q-functions.php:335
+msgid "Ecocenter in Ibiza.."
+msgstr ""
+
+#: ../q-functions.php:872
+msgid "Previous"
+msgstr ""
+
+#: ../q-functions.php:873
+msgid "Next"
+msgstr ""
+
+#: ../q-functions.php:995
+msgid "View More"
+msgstr ""
+
+#: ../q-functions.php:1109
+msgid "Yes"
+msgstr ""
+
+#: ../q-functions.php:1109
+msgid "No"
+msgstr ""
+
+#: ../q-functions.php:1401
+msgid "Method Missing"
+msgstr ""
+
+#: ../q-functions.php:1733 ../q-template.php:1316
+msgid "by"
+msgstr ""
+
+#: ../q-template.php:159
+msgid "Learn More"
+msgstr ""
+
+#: ../q-template.php:182
+msgid "See All"
+msgstr ""
+
+#: ../q-template.php:229 ../q-template.php:260
+msgid "Read More"
+msgstr ""
+
+#: ../q-template.php:395
+msgid "I'd like to get in Touch!"
+msgstr ""
+
+#: ../q-template.php:412
+msgid "Contact Details"
+msgstr ""
+
+#: ../q-template.php:762
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../q-template.php:763
+msgid "Share"
+msgstr ""
+
+#: ../q-template.php:787 ../q-template.php:788
+msgid "Greenheart International"
+msgstr ""
+
+#: ../q-template.php:838
+msgid "Nothing Found"
+msgstr ""
+
+#: ../q-template.php:984
+msgid "Posted "
+msgstr ""
+
+#: ../q-template.php:990
+msgid "Ago"
+msgstr ""
+
+#: ../q-template.php:996
+msgid "by "
+msgstr ""
+
+#: ../q-template.php:1002
+msgid "Comment"
+msgstr ""
+
+#: ../q-template.php:1002
+msgid "<span>1</span> Comment"
+msgstr ""
+
+#: ../q-template.php:1002
+msgid "<span>%</span> Comments"
+msgstr ""
+
+#: ../q-template.php:1011
+msgid "Tags"
+msgstr ""
+
+#: ../q-template.php:1094
+msgid "Post navigation"
+msgstr ""
+
+#: ../q-template.php:1315
+msgid "Q Studio: We &hearts; WordPress"
+msgstr ""
