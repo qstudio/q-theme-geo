@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name:     Q Theme GEO
+ * Plugin Name:     Q Theme : GEO
  * Plugin URI:      http://qstudio.us/
  * Description:     Q Theme Control GEO Add-on
  * Version:         1.0.0
