@@ -15,7 +15,7 @@ generic::the_content_open([ 'layout' => 'full_width' ]);
 ?>
 <div class="container">
     <div class="row">
-        <div class="col-xs-12">
+        <div class="col-12">
 <?php
 
 // title ##
