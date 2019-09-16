@@ -10,6 +10,7 @@
  * License:         GPL2
  * Class:           q_theme_geo
  * Text Domain:     q-theme-geo
+ * GitHub Plugin URI: qstudio/q-theme-geo
  */
 
 use q\theme\geo\core\helper as helper;

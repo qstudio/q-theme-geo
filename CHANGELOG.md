@@ -1,6 +1,6 @@
 ### 1.0.2 ##
 
-* Testing tag generation on the fly 
+* Added github comment
 
 ### 1.0.1 ##
 
