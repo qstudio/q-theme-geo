@@ -4,7 +4,7 @@
  * Plugin Name:     Q Theme : GEO
  * Plugin URI:      http://qstudio.us/
  * Description:     Q Theme Control GEO Add-on
- * Version:         1.0.1
+ * Version:         1.0.2
  * Author:          Q Studio
  * Author URI:      http://qstudio.us
  * License:         GPL2
@@ -27,7 +27,7 @@ if ( ! class_exists( 'q_theme_geo' ) ) {
         private static $instance = null;
 
         // Plugin Settings
-        const version = '1.0.1';
+        const version = '1.0.2';
         const text_domain = 'q-theme-geo'; // for translation ##
         static $debug = false ; // debug ##
         // static $device; // current device ##
