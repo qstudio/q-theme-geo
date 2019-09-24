@@ -33,7 +33,7 @@ class theme extends \q_theme_geo {
         if ( ! \is_admin() ) {
 
             // theme css / js ##
-            // \add_action( 'wp_enqueue_scripts', array ( get_class(), 'wp_enqueue_scripts_theme' ), 10 );
+            \add_action( 'wp_enqueue_scripts', array ( get_class(), 'wp_enqueue_scripts_theme' ), 10 );
 
         }
 
@@ -60,12 +60,11 @@ class theme extends \q_theme_geo {
         // helper::log( $field['default_value'] );
 
         // pop on a new choice ##
-        $view = ' ( <a href="'.helper::get( "theme/css/bootstrap.min.css", "return" ).'" target="_blank">css</a>';
-        $view .= ' <a href="'.helper::get( "theme/javascript/bootstrap.min.js", "return" ).'" target="_blank"> js</a> )';
-        $field['choices']['bootstrap'] = 'Bootstrap 3.3.7 JS & CSS'.$view;
+        $view = ' ( <a href="'.helper::get( "theme/javascript/theme_geo.js", "return" ).'" target="_blank">view</a> )';
+        $field['choices']['js_theme_geo'] = 'Q Theme GEO Javascript'.$view;
 
         // make it selected ##
-        $field['default_value'][] = 'bootstrap';
+        // $field['default_value'][] = 'bootstrap';
 
         return $field;
 
@@ -129,13 +128,15 @@ class theme extends \q_theme_geo {
     public static function wp_enqueue_scripts_theme() 
     {
 
-        if ( isset( self::$options->library->bootstrap ) ) {
+        // helper::log( self::$options );
 
-            // bootstrap ##
-            \wp_register_style( 'q-theme-bootstrap', helper::get( "theme/css/bootstrap.min.css", "return" ));
-            \wp_enqueue_style( 'q-theme-bootstrap' );
+        // if ( isset( self::$options->library->js_theme_geo ) ) {
 
-        }
+            // Q Theme GEO JS ##
+            \wp_register_script( 'q-theme-geo', helper::get( "theme/javascript/theme_geo.js", 'return' ), '', null, true );
+            \wp_enqueue_script( 'q-theme-geo' );
+
+        // }
 
     }
     
