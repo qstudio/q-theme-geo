@@ -16,7 +16,7 @@ function inIframe() {
   try {
     return window.self !== window.top;
   } catch (e) {
-    console.log("Problem hiding Wordpress Admin bar");
+    if( typeof q_theme.debug !== "undefined" && q_theme.debug == "true" ) console.log("Problem hiding Wordpress Admin bar");
     return false;
   }
 
